@@ -13,3 +13,5 @@ https://lutherareed.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Luther Reed
+
+### ©️2021 Run Buddy, Inc
