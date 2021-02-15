@@ -424,6 +424,7 @@ section {
 
     .contact-info {
         text-align: left;
+        margin: 0 25px 0 25px;
     }
 
     .contact-info > * {
